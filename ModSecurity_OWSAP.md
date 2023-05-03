@@ -24,7 +24,7 @@ sudo a2enmod security2
 
 The next step is to download and install the OWASP Core Rule Set. You can do this by following these steps:
 
-1. Go to the OWASP Core Rule Set GitHub page: https://github.com/SpiderLabs/owasp-modsecurity-crs
+1. Go to the OWASP Core Rule Set GitHub page: https://github.com/coreruleset/coreruleset/
 2. Download the latest release of the OWASP Core Rule Set (CRS).
 3. Extract the contents of the CRS archive to a directory on your server.
 
